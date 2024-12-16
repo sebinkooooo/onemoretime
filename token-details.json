@@ -1,0 +1,16 @@
+{
+    "name": "ONE MORE TIME",
+    "symbol": "OMT",
+    "description": "ONE MORE TIME is not a memecoin nor is it a meme. Its a movement to do something crazy with your friends at least ONE MORE TIME.",
+    "image": "https://i.imgur.com/hTlL95b.png",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Memecoin"
+        },
+        {
+            "trait_type": "Blockchain",
+            "value": "Solana"
+        }
+    ]
+}
